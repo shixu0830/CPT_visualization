@@ -17,8 +17,7 @@ install.packages("glmnet",verbose=F)
 
 install.packages("rjson",verbose=F)
 
-#### (1) Set the working directory to 
-#### the one that contains the "CPT_visualization" folder
+#### (1) Set the working directory to the one that contains the "CPT_visualization" folder
 setwd("")
 
 #### (2) Run it!

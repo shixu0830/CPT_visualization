@@ -9,10 +9,10 @@ install.packages("reshape2",verbose=F)
 install.packages("SKAT",verbose=F)
 install.packages("glmnet",verbose=F)
 install.packages("rjson",verbose=F)
+
 #### (1) Set the working directory to 
 #### the one that contains the "CPT_visualization" folder
 setwd("")
 #### (2) Run it!
 library(shiny)
-
 runApp("CPT_visualization")

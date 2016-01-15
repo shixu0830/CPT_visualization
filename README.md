@@ -1,6 +1,6 @@
 ### CPT_visualization
 A Shiny app for hypothesis testing, penalized regression, and visualization for comparison of count data (Current Procedural Terminology codes) that are potentially rare, unbalanced, over-dispersed, and zero-inflated.
-#### Download and run the following lines to generate a shiny app ####
+#### Download and run the following lines to generate a Shiny app ####
 
 #### (0) Install packages
 install.packages("shiny",verbose=F)
